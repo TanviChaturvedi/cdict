@@ -1,0 +1,23 @@
+/* Add here all your css styles (customizations) */
+
+// Variables
+@import "custom.variables";
+
+// Mixins
+@import "custom.mixins";
+
+.u-header__searchForm {
+  form {
+    display: inline-block;
+    width: 100%;
+  }
+
+}
+
+.u-searchResults {
+  &__item {
+    .u-accordion__body {
+      display: inline-block;
+    }
+  }
+}

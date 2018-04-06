@@ -1,0 +1,9 @@
+/* Add here all your css styles (customizations) */
+.u-header__searchForm form {
+  display: inline-block;
+  width: 100%;
+}
+
+.u-searchResults__item .u-accordion__body {
+  display: inline-block;
+}
