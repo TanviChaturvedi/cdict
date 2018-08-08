@@ -1,4 +1,4 @@
-# cdict
+# cdict PR
 Version 1 Files:
 
 Main Page: cdict/html/multipage/marketing/cDict_home.html
